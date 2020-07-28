@@ -1,5 +1,7 @@
 I am a software engineer.
 
+Not much content here since I don't spend much time programming outside of work.
+
 <!--
 **jasonleepeacock/jasonleepeacock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
